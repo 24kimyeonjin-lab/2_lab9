@@ -1,4 +1,5 @@
 #include "dayOfYearPtr.h"
+
 #include <memory>
 
 int main()
