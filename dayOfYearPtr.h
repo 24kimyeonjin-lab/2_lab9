@@ -1,5 +1,4 @@
 #include "dayOfYear.h"
-
 namespace KimYeonjin2693058
 {
 
