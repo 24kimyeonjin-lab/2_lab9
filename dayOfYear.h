@@ -37,9 +37,6 @@ namespace KimYeonjin2693058
         }
 
     public:
-
-        
-
         dayOfYear(int m = 1, int d = 1):month{m}, day{d} 
         {
             testMonth();
